@@ -1,0 +1,1902 @@
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000001.jpg 1 300 139 415 253 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000002.jpg 1 342 186 443 285 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000003.jpg 1 320 178 428 285 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000004.jpg 1 414 111 534 232 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000005.jpg 1 295 207 424 331 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000006.jpg 1 280 223 390 335 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000007.jpg 1 271 177 377 279 0.75 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000008.jpg 1 271 177 377 279 0.75 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000009.jpg 1 381 174 495 286 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000010.jpg 1 297 207 423 332 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000011.jpg 1 292 278 428 409 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000012.jpg 1 331 226 434 330 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000013.jpg 1 319 301 446 424 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000014.jpg 1 292 277 406 385 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000015.jpg 1 273 252 419 391 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000016.jpg 1 255 202 379 326 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000017.jpg 1 237 294 356 407 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000018.jpg 1 332 234 448 349 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000019.jpg 1 308 245 422 357 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000020.jpg 1 414 111 534 232 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000021.jpg 1 242 185 342 285 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000022.jpg 1 303 219 409 325 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000023.jpg 1 231 194 341 299 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000024.jpg 1 260 249 374 362 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000025.jpg 1 318 221 423 324 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000026.jpg 1 265 211 376 324 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000027.jpg 1 273 246 382 354 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000028.jpg 1 190 235 298 341 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000029.jpg 1 313 204 417 309 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000030.jpg 1 349 247 467 362 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000031.jpg 1 329 154 440 260 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000032.jpg 1 321 132 441 251 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000033.jpg 1 353 273 486 402 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000034.jpg 1 384 246 491 353 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000035.jpg 1 293 249 395 350 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000036.jpg 1 302 252 416 364 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000037.jpg 1 265 296 381 409 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000038.jpg 1 269 104 400 230 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000039.jpg 1 331 225 434 327 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000040.jpg 1 250 173 367 286 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000041.jpg 1 266 160 381 272 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000042.jpg 1 333 145 447 255 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000043.jpg 1 263 186 364 286 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000044.jpg 1 294 229 398 334 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000045.jpg 1 285 227 392 332 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000046.jpg 1 277 181 377 280 0.75 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000047.jpg 1 321 235 433 347 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000048.jpg 1 355 222 466 332 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000049.jpg 1 289 196 402 309 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000050.jpg 1 342 159 467 279 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000051.jpg 1 343 209 458 323 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000052.jpg 1 257 215 359 316 0.5 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000053.jpg 1 264 164 378 277 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000054.jpg 1 241 176 351 278 0.53 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000055.jpg 1 363 278 481 397 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000056.jpg 1 230 278 357 404 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000057.jpg 1 267 173 376 279 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000058.jpg 1 309 221 418 329 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000059.jpg 1 304 201 407 301 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000060.jpg 1 329 225 441 333 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000061.jpg 1 356 190 470 303 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000062.jpg 1 270 235 367 334 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000063.jpg 1 328 197 423 289 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000064.jpg 1 371 177 474 280 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000065.jpg 1 290 206 383 301 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000066.jpg 1 310 195 415 297 0.51 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000067.jpg 1 316 162 425 269 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000068.jpg 1 250 273 377 397 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000069.jpg 1 234 138 335 237 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000070.jpg 1 244 147 356 253 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000071.jpg 1 256 154 370 263 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000072.jpg 1 281 170 385 271 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000073.jpg 1 255 184 370 297 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000074.jpg 1 327 222 445 338 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000075.jpg 1 330 247 443 355 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000076.jpg 1 295 180 402 286 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000077.jpg 1 256 133 374 249 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000078.jpg 1 318 202 422 307 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000079.jpg 1 309 185 403 280 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000080.jpg 1 250 200 366 312 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000081.jpg 1 230 197 341 307 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000082.jpg 1 248 197 352 299 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000083.jpg 1 275 158 388 264 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000084.jpg 1 312 185 425 297 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000085.jpg 1 280 182 392 290 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000086.jpg 1 358 246 459 345 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000087.jpg 1 292 181 397 285 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000088.jpg 1 275 236 389 350 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000089.jpg 1 325 286 442 404 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000090.jpg 1 256 157 366 262 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000091.jpg 1 246 238 354 345 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000092.jpg 1 319 234 425 338 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000093.jpg 1 190 235 297 340 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000094.jpg 1 264 137 392 260 0.53 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000095.jpg 1 335 259 448 372 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000096.jpg 1 292 277 404 386 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000097.jpg 1 265 169 379 278 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000098.jpg 1 257 172 369 276 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000099.jpg 1 372 125 499 250 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000100.jpg 1 353 273 486 402 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000101.jpg 1 273 252 382 360 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000102.jpg 1 273 246 383 354 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000103.jpg 1 343 254 469 381 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000104.jpg 1 293 173 399 275 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000105.jpg 1 242 245 337 339 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000106.jpg 1 220 251 318 350 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000107.jpg 1 250 229 354 333 0.75 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000108.jpg 1 222 127 345 247 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000109.jpg 1 247 276 368 396 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000110.jpg 1 452 130 570 248 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000111.jpg 1 298 230 402 332 0.74 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000112.jpg 1 351 160 456 263 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000113.jpg 1 360 179 465 283 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000114.jpg 1 273 186 381 296 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000115.jpg 1 268 189 368 287 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000116.jpg 1 266 231 374 338 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000117.jpg 1 305 122 430 239 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000118.jpg 1 222 229 341 348 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000119.jpg 1 320 177 422 278 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000120.jpg 1 250 164 361 270 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000121.jpg 1 239 227 342 331 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000122.jpg 1 326 180 423 278 0.76 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000123.jpg 1 306 246 419 353 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000124.jpg 1 266 198 370 300 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000125.jpg 1 274 245 404 372 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000126.jpg 1 248 245 358 352 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000127.jpg 1 309 183 423 296 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000128.jpg 1 295 173 398 274 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000129.jpg 1 258 211 359 311 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000130.jpg 1 296 221 396 321 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000131.jpg 1 300 221 400 321 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000132.jpg 1 257 127 378 248 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000133.jpg 1 195 256 316 377 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000134.jpg 1 372 224 479 330 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000135.jpg 1 317 200 420 302 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000136.jpg 1 282 170 390 275 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000137.jpg 1 318 129 451 256 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000138.jpg 1 291 182 394 284 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000139.jpg 1 390 201 503 312 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000140.jpg 1 382 170 496 279 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000141.jpg 1 377 203 490 312 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000142.jpg 1 305 229 425 350 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000143.jpg 1 272 154 384 264 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000144.jpg 1 290 178 399 283 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000145.jpg 1 230 223 342 335 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000146.jpg 1 234 231 348 348 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000147.jpg 1 205 149 323 260 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000148.jpg 1 248 176 355 282 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000149.jpg 1 300 110 429 238 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000150.jpg 1 320 155 442 274 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000151.jpg 1 320 276 426 382 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000152.jpg 1 298 201 393 295 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000153.jpg 1 259 211 371 323 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000154.jpg 1 225 223 332 329 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000155.jpg 1 255 231 347 324 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000156.jpg 1 381 204 477 297 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000157.jpg 1 339 181 441 284 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000158.jpg 1 305 223 414 333 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000159.jpg 1 298 208 406 315 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000160.jpg 1 292 183 400 288 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000161.jpg 1 282 132 401 250 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000162.jpg 1 252 259 375 382 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000163.jpg 1 317 279 435 400 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000164.jpg 1 218 183 341 303 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000165.jpg 1 274 163 382 271 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000166.jpg 1 221 239 317 334 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000167.jpg 1 325 206 429 310 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000168.jpg 1 299 230 417 349 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000169.jpg 1 317 228 428 340 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000170.jpg 1 313 227 430 346 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000171.jpg 1 285 154 395 260 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000172.jpg 1 356 250 464 359 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000173.jpg 1 197 228 316 349 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000174.jpg 1 309 184 417 286 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000175.jpg 1 329 180 441 288 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000176.jpg 1 331 119 454 237 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000177.jpg 1 315 179 430 290 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000178.jpg 1 352 207 467 323 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000179.jpg 1 323 125 448 250 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000180.jpg 1 333 105 460 228 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000181.jpg 1 313 237 429 355 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000182.jpg 1 257 281 370 396 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000183.jpg 1 289 171 396 274 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000184.jpg 1 259 164 368 272 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000185.jpg 1 328 213 434 320 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000186.jpg 1 288 155 403 272 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000187.jpg 1 330 233 453 357 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000188.jpg 1 280 234 395 350 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000189.jpg 1 252 187 369 304 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000190.jpg 1 279 250 381 351 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000191.jpg 1 240 272 365 396 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000192.jpg 1 272 158 391 276 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000193.jpg 1 283 237 395 349 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000194.jpg 1 301 164 418 279 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000195.jpg 1 295 235 410 351 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000196.jpg 1 238 238 348 348 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000197.jpg 1 296 151 409 259 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000198.jpg 1 329 201 434 308 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000199.jpg 1 274 268 417 405 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000200.jpg 1 333 273 466 401 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000201.jpg 1 231 201 349 320 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000202.jpg 1 296 237 407 351 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000203.jpg 1 298 211 405 315 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000204.jpg 1 275 183 393 282 0.5 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000205.jpg 1 263 235 385 356 0.51 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000206.jpg 1 358 191 468 301 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000207.jpg 1 319 221 430 331 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000208.jpg 1 282 204 394 312 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000209.jpg 1 376 180 482 282 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000210.jpg 1 324 210 442 328 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000211.jpg 1 281 172 397 283 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000212.jpg 1 265 174 376 278 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000213.jpg 1 253 197 367 308 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000214.jpg 1 345 245 459 357 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000215.jpg 1 193 227 297 331 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000216.jpg 1 308 212 415 320 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000217.jpg 1 253 237 349 332 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000218.jpg 1 406 125 523 238 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000219.jpg 1 334 213 443 324 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000220.jpg 1 258 176 375 287 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000221.jpg 1 257 209 371 324 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000222.jpg 1 320 211 431 323 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000223.jpg 1 262 239 357 335 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000224.jpg 1 270 134 395 256 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000225.jpg 1 342 229 459 346 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000226.jpg 1 231 135 348 252 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000227.jpg 1 296 144 418 260 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000228.jpg 1 304 178 408 280 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000229.jpg 1 335 182 446 288 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000230.jpg 1 296 264 416 383 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000231.jpg 1 366 254 458 346 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000232.jpg 1 334 180 439 281 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000233.jpg 1 282 248 389 357 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000234.jpg 1 372 251 479 357 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000235.jpg 1 332 126 456 247 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000236.jpg 1 251 230 350 330 0.77 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000237.jpg 1 282 247 408 370 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000238.jpg 1 357 147 466 253 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000239.jpg 1 303 227 417 340 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000240.jpg 1 300 178 409 285 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000241.jpg 1 283 177 393 284 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000242.jpg 1 259 160 359 259 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000243.jpg 1 313 227 423 337 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000244.jpg 1 332 226 446 338 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000245.jpg 1 326 225 439 336 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000246.jpg 1 344 228 453 337 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000247.jpg 1 257 197 357 295 0.53 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000248.jpg 1 241 246 343 347 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000249.jpg 1 275 154 398 270 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000250.jpg 1 342 208 456 319 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000251.jpg 1 322 209 433 321 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000252.jpg 1 318 210 422 312 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000253.jpg 1 338 158 440 260 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000254.jpg 1 331 199 439 307 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000255.jpg 1 317 187 427 297 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000256.jpg 1 320 187 425 289 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000257.jpg 1 282 170 401 287 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000258.jpg 1 298 222 409 331 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000259.jpg 1 402 186 504 285 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000260.jpg 1 326 115 458 253 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000261.jpg 1 314 234 430 351 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000262.jpg 1 295 121 419 240 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000263.jpg 1 321 154 431 262 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000264.jpg 1 407 150 522 261 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000265.jpg 1 317 199 429 310 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000266.jpg 1 321 157 428 261 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000267.jpg 1 305 203 416 313 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000268.jpg 1 296 225 408 334 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000269.jpg 1 319 154 429 261 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000270.jpg 1 328 140 445 254 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000271.jpg 1 279 249 384 355 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000272.jpg 1 328 222 440 335 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000273.jpg 1 349 180 452 282 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000274.jpg 1 272 270 398 396 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000275.jpg 1 274 198 381 303 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000276.jpg 1 303 106 425 225 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000277.jpg 1 333 213 430 312 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000278.jpg 1 320 210 424 312 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000279.jpg 1 348 237 462 349 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000280.jpg 1 285 174 400 285 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000281.jpg 1 299 112 424 234 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000282.jpg 1 400 252 517 371 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000283.jpg 1 316 188 420 289 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000284.jpg 1 281 195 380 288 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000285.jpg 1 291 172 398 275 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000286.jpg 1 314 214 416 314 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000287.jpg 1 321 174 428 278 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000288.jpg 1 269 251 384 364 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000289.jpg 1 252 235 356 337 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000290.jpg 1 364 150 467 253 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000291.jpg 1 249 221 357 328 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000292.jpg 1 272 170 377 271 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000293.jpg 1 254 226 360 333 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000294.jpg 1 341 185 443 287 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000295.jpg 1 258 173 375 284 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000296.jpg 1 309 180 418 285 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000297.jpg 1 273 185 378 287 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000298.jpg 1 253 210 376 336 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000299.jpg 1 258 227 371 337 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000300.jpg 1 297 197 400 301 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000301.jpg 1 267 208 370 310 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000302.jpg 1 290 270 411 385 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000303.jpg 1 300 162 416 273 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000304.jpg 1 319 176 430 284 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000305.jpg 1 307 176 416 282 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000306.jpg 1 344 163 446 262 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000307.jpg 1 327 161 433 264 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000308.jpg 1 326 211 426 310 0.74 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000309.jpg 1 322 211 430 321 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000310.jpg 1 327 202 432 308 0.74 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000311.jpg 1 348 162 458 270 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000312.jpg 1 307 205 414 311 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000313.jpg 1 303 155 420 266 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000314.jpg 1 307 235 416 346 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000315.jpg 1 392 231 498 335 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000316.jpg 1 208 276 330 397 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000317.jpg 1 273 152 394 272 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000318.jpg 1 254 233 380 360 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000319.jpg 1 329 234 442 349 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000320.jpg 1 214 198 316 297 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000321.jpg 1 262 184 370 288 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000322.jpg 1 358 248 460 348 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000323.jpg 1 369 236 478 346 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000324.jpg 1 300 235 410 346 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000325.jpg 1 217 121 344 245 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000326.jpg 1 281 230 399 351 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000327.jpg 1 314 103 450 238 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000328.jpg 1 359 188 476 302 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000329.jpg 1 300 252 415 365 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000330.jpg 1 309 209 417 319 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000331.jpg 1 320 126 445 249 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000332.jpg 1 255 246 366 356 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000333.jpg 1 325 186 426 285 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000334.jpg 1 318 180 425 285 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000335.jpg 1 359 240 475 356 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000336.jpg 1 330 195 438 299 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000337.jpg 1 349 180 455 285 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000338.jpg 1 283 173 393 279 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000339.jpg 1 259 163 375 275 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000340.jpg 1 300 145 422 261 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000341.jpg 1 225 219 357 350 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000342.jpg 1 395 175 508 282 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000343.jpg 1 260 234 360 335 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000344.jpg 1 306 180 416 286 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000345.jpg 1 326 125 450 249 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000346.jpg 1 289 236 392 340 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000347.jpg 1 252 199 358 300 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000348.jpg 1 324 188 439 301 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000349.jpg 1 291 229 397 336 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000350.jpg 1 270 235 379 346 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000351.jpg 1 300 230 417 348 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000352.jpg 1 347 178 447 277 0.74 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000353.jpg 1 208 124 333 240 0.5 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000354.jpg 1 258 152 367 261 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000355.jpg 1 325 176 430 280 0.75 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000356.jpg 1 369 248 474 350 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000357.jpg 1 339 184 444 287 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000358.jpg 1 328 249 432 350 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000359.jpg 1 247 226 351 329 0.76 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000360.jpg 1 331 178 455 299 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000361.jpg 1 318 230 421 332 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000362.jpg 1 320 177 431 285 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000363.jpg 1 365 249 470 353 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000364.jpg 1 202 229 321 348 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000365.jpg 1 284 137 420 271 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000366.jpg 1 265 126 391 248 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000367.jpg 1 288 246 388 346 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000368.jpg 1 203 199 308 302 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000369.jpg 1 258 188 370 300 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000370.jpg 1 252 201 359 309 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000371.jpg 1 306 200 423 319 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000372.jpg 1 205 277 331 402 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000373.jpg 1 266 121 390 237 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000374.jpg 1 330 184 432 285 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000375.jpg 1 353 254 467 370 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000376.jpg 1 277 247 389 358 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000377.jpg 1 341 185 445 286 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000378.jpg 1 335 183 444 288 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000379.jpg 1 352 191 451 286 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000380.jpg 1 350 195 446 287 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000381.jpg 1 340 174 444 278 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000382.jpg 1 401 177 503 278 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000383.jpg 1 232 200 348 310 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000384.jpg 1 390 125 521 249 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000385.jpg 1 315 176 425 283 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000386.jpg 1 330 176 449 297 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000387.jpg 1 298 188 405 290 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000388.jpg 1 379 225 491 336 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000389.jpg 1 319 197 417 296 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000390.jpg 1 306 273 416 381 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000391.jpg 1 325 163 444 281 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000392.jpg 1 289 252 398 360 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000393.jpg 1 349 181 456 285 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000394.jpg 1 350 185 458 288 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000395.jpg 1 326 246 432 349 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000396.jpg 1 294 231 419 358 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000397.jpg 1 330 240 443 351 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000398.jpg 1 294 246 405 356 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000399.jpg 1 304 161 419 274 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000400.jpg 1 353 206 459 313 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000401.jpg 1 365 266 496 395 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000402.jpg 1 370 265 498 392 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000403.jpg 1 290 237 406 355 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000404.jpg 1 313 250 442 378 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000405.jpg 1 273 157 382 264 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000406.jpg 1 354 172 464 278 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000407.jpg 1 304 111 419 226 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000408.jpg 1 298 131 419 251 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000409.jpg 1 289 224 384 320 0.51 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000410.jpg 1 307 208 408 311 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000411.jpg 1 306 224 414 332 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000412.jpg 1 295 179 409 287 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000413.jpg 1 370 157 471 257 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000414.jpg 1 281 249 382 349 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000415.jpg 1 280 253 381 355 0.76 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000416.jpg 1 309 147 438 271 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000417.jpg 1 287 242 410 361 0.52 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000418.jpg 1 339 181 441 283 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000419.jpg 1 314 214 414 313 0.53 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000420.jpg 1 291 215 392 313 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000421.jpg 1 245 180 356 287 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000422.jpg 1 280 223 395 338 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000423.jpg 1 296 181 404 283 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000424.jpg 1 280 263 378 359 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000425.jpg 1 281 258 396 373 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000426.jpg 1 266 235 369 337 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000427.jpg 1 253 278 389 409 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000428.jpg 1 306 240 422 356 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000429.jpg 1 269 179 374 285 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000430.jpg 1 275 182 381 284 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000431.jpg 1 315 131 442 256 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000432.jpg 1 330 206 443 310 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000433.jpg 1 401 173 507 278 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000434.jpg 1 249 239 358 350 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000435.jpg 1 249 200 351 301 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000436.jpg 1 270 184 380 301 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000437.jpg 1 339 249 444 357 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000438.jpg 1 300 182 404 286 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000439.jpg 1 281 175 384 276 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000440.jpg 1 330 181 431 281 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000441.jpg 1 372 225 493 348 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000442.jpg 1 331 206 441 313 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000443.jpg 1 244 152 358 265 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000444.jpg 1 305 162 421 276 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000445.jpg 1 351 247 457 351 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000446.jpg 1 271 210 380 321 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000447.jpg 1 307 255 414 362 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000448.jpg 1 299 228 405 334 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000449.jpg 1 245 239 345 338 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000450.jpg 1 199 254 333 393 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000451.jpg 1 215 276 334 397 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000452.jpg 1 296 160 401 262 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000453.jpg 1 290 161 402 274 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000454.jpg 1 269 152 376 259 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000455.jpg 1 296 268 430 400 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000456.jpg 1 282 236 405 355 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000457.jpg 1 269 233 371 335 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000458.jpg 1 403 221 517 330 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000459.jpg 1 353 257 457 353 0.5 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000460.jpg 1 285 175 391 280 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000461.jpg 1 257 187 365 296 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000462.jpg 1 290 158 406 277 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000463.jpg 1 316 214 426 326 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000464.jpg 1 307 224 409 326 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000465.jpg 1 315 160 420 262 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000466.jpg 1 284 105 418 237 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000467.jpg 1 291 186 392 286 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000468.jpg 1 298 129 420 250 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000469.jpg 1 257 227 359 333 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000470.jpg 1 262 240 359 337 0.52 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000471.jpg 1 322 229 432 338 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000472.jpg 1 279 157 391 271 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000473.jpg 1 253 250 357 351 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000474.jpg 1 299 261 420 382 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000475.jpg 1 239 248 346 355 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000476.jpg 1 300 224 400 326 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000477.jpg 1 230 279 365 408 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000478.jpg 1 295 214 406 326 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000479.jpg 1 325 258 468 399 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000480.jpg 1 259 229 366 332 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000481.jpg 1 374 226 482 336 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000482.jpg 1 303 223 415 332 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000483.jpg 1 328 177 432 278 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000484.jpg 1 324 172 432 276 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000485.jpg 1 263 202 371 311 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000486.jpg 1 292 230 406 346 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000487.jpg 1 313 204 420 309 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000488.jpg 1 288 278 432 425 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000489.jpg 1 312 214 424 325 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000490.jpg 1 261 177 358 273 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000491.jpg 1 288 272 415 397 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000492.jpg 1 267 230 377 340 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000493.jpg 1 284 254 389 358 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000494.jpg 1 272 263 391 379 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000495.jpg 1 296 274 426 400 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000496.jpg 1 312 190 407 285 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000497.jpg 1 230 202 342 308 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000498.jpg 1 283 182 396 298 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000499.jpg 1 246 195 366 306 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000500.jpg 1 319 210 421 311 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000501.jpg 1 263 284 402 421 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000502.jpg 1 327 160 441 273 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000503.jpg 1 324 224 450 350 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000504.jpg 1 280 256 392 372 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000505.jpg 1 260 237 377 353 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000506.jpg 1 339 108 464 228 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000507.jpg 1 334 177 446 287 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000508.jpg 1 260 183 372 290 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000509.jpg 1 265 247 376 357 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000510.jpg 1 340 175 443 275 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000511.jpg 1 351 172 457 276 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000512.jpg 1 272 110 397 233 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000513.jpg 1 348 166 447 261 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000514.jpg 1 325 248 434 356 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000515.jpg 1 314 213 424 324 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000516.jpg 1 303 288 427 411 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000517.jpg 1 332 170 442 275 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000518.jpg 1 389 197 499 301 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000519.jpg 1 371 173 481 279 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000520.jpg 1 271 180 393 301 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000521.jpg 1 301 132 426 254 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000522.jpg 1 330 236 430 337 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000523.jpg 1 283 285 416 419 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000524.jpg 1 319 162 433 278 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000525.jpg 1 309 251 423 358 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000526.jpg 1 333 234 451 352 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000527.jpg 1 345 128 450 232 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000528.jpg 1 290 173 405 283 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000529.jpg 1 315 207 418 311 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000530.jpg 1 330 173 435 276 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000531.jpg 1 350 199 454 301 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000532.jpg 1 303 222 405 324 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000533.jpg 1 329 236 432 338 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000534.jpg 1 342 278 473 405 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000535.jpg 1 284 224 389 328 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000536.jpg 1 232 209 333 310 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000537.jpg 1 304 179 407 280 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000538.jpg 1 389 161 517 283 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000539.jpg 1 358 158 466 262 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000540.jpg 1 343 204 458 321 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000541.jpg 1 359 280 483 401 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000542.jpg 1 295 182 398 283 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000543.jpg 1 256 251 359 355 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000544.jpg 1 278 226 377 324 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000545.jpg 1 321 150 436 260 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000546.jpg 1 269 177 379 283 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000547.jpg 1 309 276 435 400 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000548.jpg 1 342 272 467 394 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000549.jpg 1 290 231 394 336 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000550.jpg 1 324 203 430 308 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000551.jpg 1 369 128 478 236 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000552.jpg 1 300 212 415 325 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000553.jpg 1 295 246 407 357 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000554.jpg 1 298 184 403 285 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000555.jpg 1 265 244 370 349 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000556.jpg 1 302 189 406 289 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000557.jpg 1 261 175 365 277 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000558.jpg 1 204 273 343 408 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000559.jpg 1 293 107 424 238 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000560.jpg 1 320 188 421 287 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000561.jpg 1 268 200 368 298 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000562.jpg 1 220 168 341 282 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000563.jpg 1 323 172 432 280 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000564.jpg 1 341 176 450 280 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000565.jpg 1 277 237 391 353 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000566.jpg 1 289 173 394 275 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000567.jpg 1 268 246 379 356 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000568.jpg 1 283 249 398 361 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000569.jpg 1 255 185 366 297 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000570.jpg 1 265 196 372 302 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000571.jpg 1 257 222 365 330 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000572.jpg 1 255 176 366 283 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000573.jpg 1 274 235 384 347 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000574.jpg 1 262 222 372 332 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000575.jpg 1 264 126 391 249 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000576.jpg 1 305 221 414 327 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000577.jpg 1 277 185 383 289 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000578.jpg 1 289 215 395 323 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000579.jpg 1 318 237 424 347 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000580.jpg 1 389 239 500 353 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000581.jpg 1 250 179 356 284 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000582.jpg 1 348 183 466 300 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000583.jpg 1 325 180 437 297 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000584.jpg 1 370 235 492 353 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000585.jpg 1 285 205 392 311 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000586.jpg 1 373 177 494 288 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000587.jpg 1 221 191 327 299 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000588.jpg 1 264 188 374 297 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000589.jpg 1 318 174 424 277 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000590.jpg 1 274 228 390 346 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000591.jpg 1 395 173 508 282 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000592.jpg 1 244 196 350 295 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000593.jpg 1 238 227 358 352 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000594.jpg 1 278 201 378 299 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000595.jpg 1 277 234 378 334 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000596.jpg 1 298 174 405 278 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000597.jpg 1 356 160 464 263 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000598.jpg 1 217 231 341 357 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000599.jpg 1 282 180 394 289 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000600.jpg 1 378 177 491 287 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000601.jpg 1 281 232 398 350 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000602.jpg 1 329 172 441 279 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000603.jpg 1 321 182 431 288 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000604.jpg 1 258 246 365 353 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000605.jpg 1 332 180 433 283 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000606.jpg 1 314 176 422 283 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000607.jpg 1 340 213 441 313 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000608.jpg 1 345 282 470 406 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000609.jpg 1 250 223 357 329 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000610.jpg 1 291 175 394 276 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000611.jpg 1 316 229 445 354 0.52 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000612.jpg 1 260 241 366 347 0.5 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000613.jpg 1 333 188 441 296 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000614.jpg 1 220 232 342 353 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000615.jpg 1 268 121 377 227 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000616.jpg 1 254 156 358 259 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000617.jpg 1 372 251 480 359 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000618.jpg 1 258 224 365 333 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000619.jpg 1 289 214 393 321 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000620.jpg 1 303 245 420 359 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000621.jpg 1 340 173 452 283 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000622.jpg 1 323 151 432 257 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000623.jpg 1 243 156 352 263 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000624.jpg 1 260 234 369 346 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000625.jpg 1 344 237 464 353 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000626.jpg 1 280 230 390 338 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000627.jpg 1 324 159 445 285 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000628.jpg 1 321 246 433 355 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000629.jpg 1 386 254 489 357 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000630.jpg 1 341 269 459 382 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000631.jpg 1 368 277 499 403 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000632.jpg 1 282 174 396 284 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000633.jpg 1 330 255 452 374 0.5 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000634.jpg 1 296 115 420 236 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000635.jpg 1 333 179 447 287 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000636.jpg 1 316 181 416 281 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000637.jpg 1 305 261 412 370 0.5 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000638.jpg 1 283 187 391 295 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000639.jpg 1 320 180 426 284 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000640.jpg 1 306 182 410 285 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000641.jpg 1 323 150 426 254 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000642.jpg 1 306 140 411 246 0.51 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000643.jpg 1 349 151 445 247 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000644.jpg 1 366 164 477 275 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000645.jpg 1 341 206 447 310 0.74 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000646.jpg 1 352 212 458 321 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000647.jpg 1 284 266 404 383 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000648.jpg 1 305 222 423 336 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000649.jpg 1 258 180 371 286 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000650.jpg 1 268 223 376 330 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000651.jpg 1 253 154 358 259 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000652.jpg 1 269 257 382 370 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000653.jpg 1 276 286 410 420 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000654.jpg 1 278 237 395 355 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000655.jpg 1 344 138 458 251 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000656.jpg 1 269 236 382 347 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000657.jpg 1 304 249 416 356 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000658.jpg 1 311 195 416 298 0.51 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000659.jpg 1 340 220 444 322 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000660.jpg 1 297 181 409 286 0.53 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000661.jpg 1 364 262 493 388 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000662.jpg 1 325 201 434 310 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000663.jpg 1 289 163 400 273 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000664.jpg 1 259 197 368 303 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000665.jpg 1 350 165 457 272 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000666.jpg 1 370 159 478 263 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000667.jpg 1 353 201 456 304 0.74 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000668.jpg 1 339 172 449 278 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000669.jpg 1 357 219 464 327 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000670.jpg 1 373 154 477 257 0.75 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000671.jpg 1 334 213 429 309 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000672.jpg 1 314 259 417 362 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000673.jpg 1 327 239 440 353 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000674.jpg 1 333 250 442 358 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000675.jpg 1 271 246 379 352 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000676.jpg 1 325 173 443 281 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000677.jpg 1 258 208 373 323 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000678.jpg 1 247 233 350 336 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000679.jpg 1 301 166 412 275 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000680.jpg 1 256 187 355 286 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000681.jpg 1 398 123 526 249 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000682.jpg 1 437 110 566 235 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000683.jpg 1 276 157 400 284 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000684.jpg 1 291 170 401 278 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000685.jpg 1 291 232 406 348 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000686.jpg 1 313 180 421 286 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000687.jpg 1 343 126 469 249 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000688.jpg 1 268 232 371 333 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000689.jpg 1 354 231 475 349 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000690.jpg 1 250 182 372 304 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000691.jpg 1 358 233 452 329 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000692.jpg 1 384 240 483 341 0.5 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000693.jpg 1 230 235 342 348 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000694.jpg 1 259 236 367 348 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000695.jpg 1 221 250 330 355 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000696.jpg 1 291 263 394 363 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000697.jpg 1 292 211 407 327 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000698.jpg 1 429 125 561 250 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000699.jpg 1 274 151 390 259 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000700.jpg 1 321 187 432 296 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000701.jpg 1 279 250 407 379 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000702.jpg 1 366 275 478 383 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000703.jpg 1 221 233 324 336 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000704.jpg 1 283 218 380 314 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000705.jpg 1 316 226 436 350 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000706.jpg 1 284 179 395 286 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000707.jpg 1 281 236 397 353 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000708.jpg 1 233 195 344 302 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000709.jpg 1 244 164 356 272 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000710.jpg 1 296 231 409 345 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000711.jpg 1 329 195 440 302 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000712.jpg 1 293 180 406 289 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000713.jpg 1 316 208 422 314 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000714.jpg 1 323 206 420 305 0.75 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000715.jpg 1 333 209 445 323 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000716.jpg 1 254 107 379 231 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000717.jpg 1 316 249 425 354 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000718.jpg 1 298 125 416 237 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000719.jpg 1 308 184 417 289 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000720.jpg 1 314 254 422 360 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000721.jpg 1 272 170 377 274 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000722.jpg 1 271 177 376 282 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000723.jpg 1 249 172 354 275 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000724.jpg 1 245 172 354 278 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000725.jpg 1 416 127 547 250 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000726.jpg 1 272 251 382 360 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000727.jpg 1 297 161 409 271 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000728.jpg 1 256 226 386 359 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000729.jpg 1 320 235 425 337 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000730.jpg 1 348 186 451 287 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000731.jpg 1 233 220 342 328 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000732.jpg 1 269 231 376 337 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000733.jpg 1 349 108 474 232 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000734.jpg 1 294 223 406 335 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000735.jpg 1 219 227 323 333 0.75 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000736.jpg 1 291 253 402 362 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000737.jpg 1 343 173 452 280 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000738.jpg 1 334 190 448 302 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000739.jpg 1 296 212 401 320 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000740.jpg 1 257 209 373 324 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000741.jpg 1 380 281 503 402 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000742.jpg 1 306 213 412 321 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000743.jpg 1 253 161 357 262 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000744.jpg 1 274 246 383 353 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000745.jpg 1 306 132 420 247 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000746.jpg 1 356 198 454 297 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000747.jpg 1 302 182 416 299 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000748.jpg 1 296 179 416 296 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000749.jpg 1 272 235 380 344 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000750.jpg 1 317 254 417 356 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000751.jpg 1 399 175 504 276 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000752.jpg 1 283 208 398 325 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000753.jpg 1 296 102 419 222 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000754.jpg 1 305 233 417 345 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000755.jpg 1 291 173 396 275 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000756.jpg 1 321 297 448 420 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000757.jpg 1 302 223 407 329 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000758.jpg 1 334 178 440 279 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000759.jpg 1 256 178 364 285 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000760.jpg 1 336 100 465 223 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000761.jpg 1 254 196 366 306 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000762.jpg 1 266 183 393 311 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000763.jpg 1 277 212 383 321 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000764.jpg 1 376 234 492 349 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000765.jpg 1 303 210 414 322 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000766.jpg 1 283 219 393 326 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000767.jpg 1 394 173 508 281 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000768.jpg 1 272 149 381 254 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000769.jpg 1 297 237 413 350 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000770.jpg 1 223 175 326 275 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000771.jpg 1 231 232 335 337 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000772.jpg 1 333 239 440 347 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000773.jpg 1 253 230 357 332 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000774.jpg 1 227 246 330 349 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000775.jpg 1 277 175 410 305 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000776.jpg 1 285 205 380 301 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000777.jpg 1 277 148 390 255 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000778.jpg 1 275 170 386 277 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000779.jpg 1 291 247 398 352 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000780.jpg 1 307 277 441 401 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000781.jpg 1 334 161 441 263 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000782.jpg 1 315 180 431 296 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000783.jpg 1 246 179 359 287 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000784.jpg 1 226 153 345 271 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000785.jpg 1 314 181 419 286 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000786.jpg 1 271 196 375 300 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000787.jpg 1 290 255 398 362 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000788.jpg 1 314 105 444 233 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000789.jpg 1 312 108 432 227 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000790.jpg 1 283 189 390 295 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000791.jpg 1 244 246 354 354 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000792.jpg 1 271 251 378 354 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000793.jpg 1 315 207 418 310 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000794.jpg 1 260 228 368 335 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000795.jpg 1 331 208 445 323 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000796.jpg 1 301 176 417 284 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000797.jpg 1 296 200 397 300 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000798.jpg 1 272 204 381 313 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000799.jpg 1 347 239 473 372 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000800.jpg 1 321 170 426 272 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000801.jpg 1 266 234 370 339 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000802.jpg 1 318 205 424 310 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000803.jpg 1 308 226 420 334 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000804.jpg 1 342 180 459 291 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000805.jpg 1 332 103 449 220 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000806.jpg 1 266 248 369 354 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000807.jpg 1 250 254 369 373 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000808.jpg 1 291 189 391 286 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000809.jpg 1 278 186 383 287 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000810.jpg 1 344 186 446 286 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000811.jpg 1 293 261 395 362 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000812.jpg 1 284 185 394 290 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000813.jpg 1 175 152 300 270 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000814.jpg 1 266 225 375 334 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000815.jpg 1 282 186 392 297 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000816.jpg 1 241 236 351 346 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000817.jpg 1 263 175 369 278 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000818.jpg 1 316 183 422 286 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000819.jpg 1 266 176 380 287 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000820.jpg 1 230 175 338 278 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000821.jpg 1 396 178 496 277 0.74 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000822.jpg 1 222 178 330 280 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000823.jpg 1 256 225 365 334 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000824.jpg 1 190 127 307 238 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000825.jpg 1 338 212 445 321 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000826.jpg 1 333 197 451 312 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000827.jpg 1 302 274 424 397 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000828.jpg 1 445 109 576 234 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000829.jpg 1 340 275 469 401 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000830.jpg 1 376 254 480 358 0.74 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000831.jpg 1 293 214 403 324 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000832.jpg 1 297 171 407 276 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000833.jpg 1 247 199 353 302 0.74 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000834.jpg 1 241 202 344 304 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000835.jpg 1 354 283 471 398 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000836.jpg 1 303 160 408 261 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000837.jpg 1 267 147 375 255 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000838.jpg 1 342 196 446 297 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000839.jpg 1 359 232 479 354 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000840.jpg 1 395 174 497 274 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000841.jpg 1 273 196 378 299 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000842.jpg 1 303 256 415 372 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000843.jpg 1 327 187 435 295 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000844.jpg 1 324 211 445 333 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000845.jpg 1 280 175 404 298 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000846.jpg 1 339 202 451 312 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000847.jpg 1 198 263 329 394 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000848.jpg 1 275 275 398 398 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000849.jpg 1 302 279 426 402 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000850.jpg 1 263 160 377 273 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000851.jpg 1 297 232 416 351 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000852.jpg 1 344 233 454 338 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000853.jpg 1 213 276 342 402 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000854.jpg 1 294 213 409 329 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000855.jpg 1 316 174 422 278 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000856.jpg 1 307 245 425 362 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000857.jpg 1 249 151 365 261 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000858.jpg 1 345 203 450 307 0.74 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000859.jpg 1 256 254 367 363 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000860.jpg 1 273 180 372 281 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000861.jpg 1 315 162 428 271 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000862.jpg 1 324 162 431 266 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000863.jpg 1 317 226 439 348 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000864.jpg 1 321 176 434 286 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000865.jpg 1 318 223 441 344 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000866.jpg 1 239 246 343 350 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000867.jpg 1 318 232 430 345 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000868.jpg 1 277 235 385 345 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000869.jpg 1 269 244 385 360 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000870.jpg 1 255 189 358 288 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000871.jpg 1 271 265 376 369 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000872.jpg 1 282 254 384 358 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000873.jpg 1 373 164 485 276 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000874.jpg 1 296 226 416 345 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000875.jpg 1 357 248 449 340 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000876.jpg 1 316 132 426 237 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000877.jpg 1 371 234 474 337 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000878.jpg 1 306 235 415 347 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000879.jpg 1 298 248 405 353 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000880.jpg 1 378 231 492 347 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000881.jpg 1 233 208 333 309 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000882.jpg 1 358 196 466 304 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000883.jpg 1 379 181 484 286 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000884.jpg 1 332 176 441 283 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000885.jpg 1 313 177 431 297 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000886.jpg 1 279 189 394 303 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000887.jpg 1 309 198 424 308 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000888.jpg 1 305 176 417 283 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000889.jpg 1 308 164 416 272 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000890.jpg 1 221 198 326 301 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000891.jpg 1 244 174 358 281 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000892.jpg 1 293 177 398 282 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000893.jpg 1 271 191 370 287 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000894.jpg 1 301 148 415 256 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000895.jpg 1 298 157 405 261 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000896.jpg 1 302 190 416 305 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000897.jpg 1 334 154 440 260 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000898.jpg 1 334 161 445 271 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000899.jpg 1 231 235 366 374 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000900.jpg 1 281 154 406 280 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000901.jpg 1 290 217 428 352 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000902.jpg 1 297 227 432 363 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000903.jpg 1 319 235 429 346 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000904.jpg 1 304 235 409 339 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000905.jpg 1 296 173 402 278 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000906.jpg 1 331 169 440 274 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000907.jpg 1 306 222 420 336 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000908.jpg 1 311 159 429 273 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000909.jpg 1 319 175 429 281 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000910.jpg 1 315 202 419 307 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000911.jpg 1 305 209 410 316 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000912.jpg 1 339 186 457 305 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000913.jpg 1 282 204 378 298 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000914.jpg 1 342 212 448 320 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000915.jpg 1 242 202 345 302 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000916.jpg 1 225 185 331 289 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000917.jpg 1 273 254 381 362 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000918.jpg 1 360 274 493 404 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000919.jpg 1 281 235 391 347 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000920.jpg 1 258 211 376 329 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000921.jpg 1 350 175 457 279 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000922.jpg 1 332 183 451 304 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000923.jpg 1 389 163 502 273 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000924.jpg 1 143 244 293 388 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000925.jpg 1 281 180 385 283 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000926.jpg 1 275 263 394 382 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000927.jpg 1 327 163 439 275 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000928.jpg 1 281 251 390 360 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000929.jpg 1 266 259 383 377 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000930.jpg 1 277 185 380 285 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000931.jpg 1 292 175 391 274 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000932.jpg 1 375 157 490 264 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000933.jpg 1 283 174 391 280 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000934.jpg 1 244 228 355 337 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000935.jpg 1 324 151 431 253 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000936.jpg 1 333 163 433 260 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000937.jpg 1 332 162 433 261 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000938.jpg 1 304 204 406 301 0.51 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000939.jpg 1 371 237 475 343 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000940.jpg 1 256 139 380 260 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000941.jpg 1 293 174 404 278 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000942.jpg 1 229 202 333 302 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000943.jpg 1 248 170 358 275 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000944.jpg 1 268 248 376 356 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000945.jpg 1 274 283 394 399 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000946.jpg 1 305 278 427 400 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000947.jpg 1 293 234 404 346 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000948.jpg 1 258 171 365 277 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000949.jpg 1 228 200 341 310 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000950.jpg 1 240 183 354 296 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000951.jpg 1 340 179 445 283 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000952.jpg 1 343 190 444 287 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000953.jpg 1 331 157 444 272 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000954.jpg 1 340 183 440 281 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000955.jpg 1 258 182 367 288 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000956.jpg 1 329 177 439 284 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000957.jpg 1 340 276 451 385 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000958.jpg 1 328 156 440 263 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000959.jpg 1 202 233 307 337 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000960.jpg 1 202 114 326 235 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000961.jpg 1 279 130 402 252 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000962.jpg 1 261 274 392 402 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000963.jpg 1 263 111 390 236 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000964.jpg 1 259 257 390 386 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000965.jpg 1 258 242 390 372 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000966.jpg 1 378 173 483 278 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000967.jpg 1 376 273 502 397 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000968.jpg 1 346 229 467 349 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000969.jpg 1 200 223 307 329 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000970.jpg 1 279 177 403 299 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000971.jpg 1 391 235 496 340 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000972.jpg 1 360 184 463 287 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000973.jpg 1 347 179 465 297 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000974.jpg 1 276 202 389 313 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000975.jpg 1 260 246 371 351 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000976.jpg 1 271 247 379 352 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000977.jpg 1 358 210 472 326 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000978.jpg 1 342 202 468 329 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000979.jpg 1 309 204 420 312 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000980.jpg 1 341 183 448 286 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000981.jpg 1 307 171 421 280 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000982.jpg 1 311 158 428 279 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000983.jpg 1 288 202 396 308 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000984.jpg 1 326 158 432 261 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000985.jpg 1 329 177 447 286 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000986.jpg 1 296 227 407 336 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000987.jpg 1 271 149 393 258 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000988.jpg 1 303 244 428 358 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000989.jpg 1 245 231 349 336 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000990.jpg 1 217 229 324 334 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000991.jpg 1 228 153 342 263 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000992.jpg 1 238 156 347 260 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000993.jpg 1 256 221 368 334 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000994.jpg 1 268 224 380 336 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000995.jpg 1 308 238 427 355 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000996.jpg 1 241 175 354 281 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000997.jpg 1 282 147 381 244 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000998.jpg 1 431 124 565 250 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/000999.jpg 1 250 234 360 344 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001000.jpg 1 326 256 466 403 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001001.jpg 1 320 274 462 415 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001002.jpg 1 311 225 424 336 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001003.jpg 1 261 246 367 351 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001004.jpg 1 304 112 429 235 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001005.jpg 1 289 179 408 298 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001006.jpg 1 357 150 482 272 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001007.jpg 1 246 155 355 264 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001008.jpg 1 271 211 396 336 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001009.jpg 1 257 222 358 323 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001010.jpg 1 343 224 446 322 0.53 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001011.jpg 1 276 105 399 208 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001012.jpg 1 243 159 349 258 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001013.jpg 1 292 227 418 353 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001014.jpg 1 346 244 460 355 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001015.jpg 1 290 210 415 329 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001016.jpg 1 257 186 367 295 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001017.jpg 1 308 244 427 358 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001018.jpg 1 322 112 462 249 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001019.jpg 1 334 101 452 214 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001020.jpg 1 294 252 417 374 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001021.jpg 1 278 136 398 254 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001022.jpg 1 329 253 452 375 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001023.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001024.jpg 1 323 130 447 252 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001025.jpg 1 349 178 449 277 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001026.jpg 1 324 152 445 261 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001027.jpg 1 273 252 419 391 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001028.jpg 1 341 195 442 298 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001029.jpg 1 253 229 365 337 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001030.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001031.jpg 1 250 228 368 346 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001032.jpg 1 331 226 434 330 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001033.jpg 1 332 234 448 349 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001034.jpg 1 224 272 350 397 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001035.jpg 1 203 282 328 406 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001036.jpg 1 318 221 423 324 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001037.jpg 1 315 213 427 323 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001038.jpg 1 284 226 396 338 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001039.jpg 1 337 239 465 366 0.53 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001040.jpg 1 242 179 349 283 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001041.jpg 1 349 233 457 338 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001042.jpg 1 321 132 441 251 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001043.jpg 1 321 132 441 251 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001044.jpg 1 295 136 417 255 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001045.jpg 1 331 225 434 327 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001046.jpg 1 228 255 351 377 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001047.jpg 1 381 224 498 337 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001048.jpg 1 241 176 351 278 0.53 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001049.jpg 1 267 173 376 279 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001050.jpg 1 427 103 557 231 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001051.jpg 1 193 182 305 288 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001052.jpg 1 308 183 420 295 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001053.jpg 1 290 206 383 301 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001054.jpg 1 250 273 377 397 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001055.jpg 1 290 282 424 418 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001056.jpg 1 232 170 347 277 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001057.jpg 1 255 238 370 351 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001058.jpg 1 276 248 381 351 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001059.jpg 1 301 261 390 347 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001060.jpg 1 259 186 365 288 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001061.jpg 1 278 189 381 288 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001062.jpg 1 278 189 381 288 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001063.jpg 1 330 197 440 300 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001064.jpg 1 274 231 377 334 0.75 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001065.jpg 1 244 228 353 334 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001066.jpg 1 254 172 360 275 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001067.jpg 1 333 173 440 277 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001068.jpg 1 306 159 429 283 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001069.jpg 1 343 254 469 381 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001070.jpg 1 269 247 391 370 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001071.jpg 1 314 134 442 258 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001072.jpg 1 354 246 476 363 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001073.jpg 1 269 251 384 364 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001074.jpg 1 306 244 434 373 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001075.jpg 1 204 232 303 332 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001076.jpg 1 277 183 385 287 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001077.jpg 1 305 122 430 239 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001078.jpg 1 224 284 348 405 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001079.jpg 1 224 284 348 405 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001080.jpg 1 224 284 348 405 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001081.jpg 1 306 130 433 255 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001082.jpg 1 266 288 391 410 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001083.jpg 1 204 123 333 247 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001084.jpg 1 209 273 338 400 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001085.jpg 1 303 178 423 282 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001086.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001087.jpg 1 353 196 455 298 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001088.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001089.jpg 1 258 207 352 301 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001090.jpg 1 321 129 445 249 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001091.jpg 1 381 224 498 337 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001092.jpg 1 321 129 445 249 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001093.jpg 1 292 105 417 227 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001094.jpg 1 274 163 382 271 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001095.jpg 1 419 123 542 237 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001096.jpg 1 310 156 433 281 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001097.jpg 1 333 151 450 263 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001098.jpg 1 308 183 420 295 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001099.jpg 1 256 154 370 263 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001100.jpg 1 232 170 347 277 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001101.jpg 1 269 251 384 364 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001102.jpg 1 276 248 381 351 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001103.jpg 1 288 155 403 272 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001104.jpg 1 288 155 403 272 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001105.jpg 1 278 250 394 357 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001106.jpg 1 322 236 433 346 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001107.jpg 1 296 151 409 259 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001108.jpg 1 330 197 440 300 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001109.jpg 1 294 176 389 273 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001110.jpg 1 242 210 352 324 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001111.jpg 1 330 210 430 310 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001112.jpg 1 292 295 409 407 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001113.jpg 1 266 179 373 286 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001114.jpg 1 341 195 442 298 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001115.jpg 1 250 228 368 346 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001116.jpg 1 245 220 366 333 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001117.jpg 1 272 132 393 251 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001118.jpg 1 265 143 383 256 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001119.jpg 1 308 132 429 250 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001120.jpg 1 329 232 448 351 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001121.jpg 1 260 215 364 320 0.5 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001122.jpg 1 315 213 427 323 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001123.jpg 1 284 226 396 338 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001124.jpg 1 338 270 480 409 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001125.jpg 1 299 146 426 272 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001126.jpg 1 330 248 445 356 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001127.jpg 1 300 180 406 286 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001128.jpg 1 356 241 469 354 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001129.jpg 1 303 184 408 289 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001130.jpg 1 245 110 376 233 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001131.jpg 1 257 238 371 351 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001132.jpg 1 202 279 347 424 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001133.jpg 1 295 182 394 282 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001134.jpg 1 343 233 447 336 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001135.jpg 1 407 150 522 261 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001136.jpg 1 296 225 408 334 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001137.jpg 1 276 177 392 286 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001138.jpg 1 279 114 404 234 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001139.jpg 1 292 204 398 311 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001140.jpg 1 364 247 491 373 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001141.jpg 1 263 183 378 297 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001142.jpg 1 257 176 375 288 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001143.jpg 1 278 235 379 335 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001144.jpg 1 364 223 480 335 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001145.jpg 1 206 178 319 287 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001146.jpg 1 297 181 406 287 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001147.jpg 1 231 204 342 311 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001148.jpg 1 253 250 358 356 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001149.jpg 1 292 247 397 351 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001150.jpg 1 258 247 369 355 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001151.jpg 1 339 172 446 277 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001152.jpg 1 283 244 394 348 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001153.jpg 1 195 214 323 348 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001154.jpg 1 240 209 335 307 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001155.jpg 1 240 209 335 307 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001156.jpg 1 318 190 417 285 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001157.jpg 1 318 190 417 285 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001158.jpg 1 271 246 379 352 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001159.jpg 1 271 246 379 352 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001160.jpg 1 285 216 380 310 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001161.jpg 1 285 216 380 310 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001162.jpg 1 277 153 392 263 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001163.jpg 1 277 153 392 263 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001164.jpg 1 289 225 411 348 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001165.jpg 1 271 236 404 373 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001166.jpg 1 242 179 349 283 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001167.jpg 1 320 189 425 290 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001168.jpg 1 270 230 379 338 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001169.jpg 1 255 238 370 351 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001170.jpg 1 294 269 407 379 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001171.jpg 1 348 277 466 395 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001172.jpg 1 254 178 360 281 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001173.jpg 1 304 238 410 346 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001174.jpg 1 283 233 403 351 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001175.jpg 1 323 246 435 355 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001176.jpg 1 237 281 355 384 0.5 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001177.jpg 1 340 165 451 275 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001178.jpg 1 243 180 351 286 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001179.jpg 1 356 283 495 412 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001180.jpg 1 338 262 476 395 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001181.jpg 1 306 235 417 348 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001182.jpg 1 297 219 434 354 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001183.jpg 1 198 226 306 334 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001184.jpg 1 277 229 380 333 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001185.jpg 1 205 226 317 335 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001186.jpg 1 283 131 403 249 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001187.jpg 1 283 136 399 249 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001188.jpg 1 243 177 355 285 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001189.jpg 1 225 219 357 350 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001190.jpg 1 249 176 356 278 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001191.jpg 1 276 255 391 370 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001192.jpg 1 208 124 333 240 0.5 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001193.jpg 1 259 235 370 348 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001194.jpg 1 241 175 352 283 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001195.jpg 1 379 126 507 250 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001196.jpg 1 429 125 557 249 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001197.jpg 1 328 275 468 421 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001198.jpg 1 376 126 507 252 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001199.jpg 1 430 121 566 249 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001200.jpg 1 427 103 557 231 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001201.jpg 1 399 126 508 229 0.53 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001202.jpg 1 390 125 521 249 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001203.jpg 1 255 238 370 351 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001204.jpg 1 243 221 372 346 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001205.jpg 1 295 178 407 287 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001206.jpg 1 353 206 459 313 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001207.jpg 1 226 210 323 308 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001208.jpg 1 265 172 371 276 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001209.jpg 1 274 231 377 334 0.75 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001210.jpg 1 265 172 371 276 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001211.jpg 1 254 172 360 275 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001212.jpg 1 370 157 471 257 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001213.jpg 1 241 213 369 337 0.5 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001214.jpg 1 370 157 471 257 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001215.jpg 1 301 275 431 403 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001216.jpg 1 330 210 430 310 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001217.jpg 1 281 271 417 400 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001218.jpg 1 314 134 442 258 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001219.jpg 1 267 125 397 251 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001220.jpg 1 262 272 404 408 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001221.jpg 1 274 126 404 252 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001222.jpg 1 253 278 389 409 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001223.jpg 1 315 131 442 256 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001224.jpg 1 292 278 428 409 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001225.jpg 1 300 139 415 253 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001226.jpg 1 255 202 379 326 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001227.jpg 1 274 245 404 372 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001228.jpg 1 325 281 454 407 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001229.jpg 1 288 279 405 395 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001230.jpg 1 331 174 450 286 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001231.jpg 1 266 179 373 282 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001232.jpg 1 245 221 359 332 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001233.jpg 1 290 174 392 277 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001234.jpg 1 285 211 397 320 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001235.jpg 1 294 277 422 403 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001236.jpg 1 356 252 465 359 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001237.jpg 1 339 287 480 423 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001238.jpg 1 340 157 468 280 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001239.jpg 1 348 277 470 400 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001240.jpg 1 234 228 346 338 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001241.jpg 1 253 178 367 286 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001242.jpg 1 196 161 319 281 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001243.jpg 1 303 179 429 300 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001244.jpg 1 232 227 342 336 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001245.jpg 1 265 224 376 333 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001246.jpg 1 336 234 457 355 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001247.jpg 1 314 159 430 273 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001248.jpg 1 215 233 319 337 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001249.jpg 1 319 224 424 331 0.74 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001250.jpg 1 204 122 330 238 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001251.jpg 1 353 238 467 349 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001252.jpg 1 331 184 439 296 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001253.jpg 1 265 174 384 294 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001254.jpg 1 269 238 390 357 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001255.jpg 1 320 248 435 363 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001256.jpg 1 329 265 449 381 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001257.jpg 1 267 224 373 331 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001258.jpg 1 259 237 368 347 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001259.jpg 1 253 240 355 340 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001260.jpg 1 217 150 333 260 0.5 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001261.jpg 1 302 236 417 350 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001262.jpg 1 266 253 371 358 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001263.jpg 1 222 227 323 330 0.76 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001264.jpg 1 223 231 341 348 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001265.jpg 1 340 201 474 332 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001266.jpg 1 271 225 387 345 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001267.jpg 1 306 227 425 348 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001268.jpg 1 251 204 351 305 0.74 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001269.jpg 1 225 247 353 373 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001270.jpg 1 229 235 333 338 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001271.jpg 1 205 198 321 307 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001272.jpg 1 258 170 364 275 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001273.jpg 1 249 253 354 353 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001274.jpg 1 252 187 354 286 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001275.jpg 1 331 171 443 277 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001276.jpg 1 240 250 351 358 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001277.jpg 1 270 260 368 360 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001278.jpg 1 289 237 399 348 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001279.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001280.jpg 1 282 272 417 400 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001281.jpg 1 302 276 432 404 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001282.jpg 1 228 202 332 305 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001283.jpg 1 248 125 371 247 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001284.jpg 1 281 247 394 355 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001285.jpg 1 393 123 520 240 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001286.jpg 1 353 279 481 407 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001287.jpg 1 312 306 422 409 0.53 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001288.jpg 1 229 231 333 334 0.74 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001289.jpg 1 290 148 407 260 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001290.jpg 1 284 247 391 351 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001291.jpg 1 271 251 381 358 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001292.jpg 1 242 183 347 285 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001293.jpg 1 303 171 415 279 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001294.jpg 1 365 224 473 331 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001295.jpg 1 295 227 405 335 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001296.jpg 1 347 159 460 273 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001297.jpg 1 331 248 439 357 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001298.jpg 1 204 123 333 247 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001299.jpg 1 321 227 434 337 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001300.jpg 1 259 235 370 348 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001301.jpg 1 274 163 382 271 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001302.jpg 1 294 176 389 273 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001303.jpg 1 244 228 353 334 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001304.jpg 1 333 173 440 277 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001305.jpg 1 269 247 391 370 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001306.jpg 1 260 215 364 320 0.5 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001307.jpg 1 250 228 368 346 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001308.jpg 1 292 295 409 407 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001309.jpg 1 266 179 373 286 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001310.jpg 1 277 183 385 287 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001311.jpg 1 305 122 430 239 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001312.jpg 1 306 130 433 255 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001313.jpg 1 209 273 338 400 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001314.jpg 1 249 176 356 278 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001315.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001316.jpg 1 243 221 372 346 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001317.jpg 1 301 261 390 347 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001318.jpg 1 259 186 365 288 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001319.jpg 1 292 181 397 285 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001320.jpg 1 242 210 352 324 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001321.jpg 1 354 246 476 363 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001322.jpg 1 204 232 303 332 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001323.jpg 1 299 146 426 272 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001324.jpg 1 321 227 434 337 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001325.jpg 1 245 220 366 333 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001326.jpg 1 274 126 404 252 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001327.jpg 1 303 178 423 282 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001328.jpg 1 338 270 480 409 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001329.jpg 1 276 255 391 370 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001330.jpg 1 303 219 409 325 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001331.jpg 1 265 211 376 324 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001332.jpg 1 337 239 465 366 0.53 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001333.jpg 1 349 233 457 338 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001334.jpg 1 279 124 408 246 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001335.jpg 1 295 136 417 255 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001336.jpg 1 228 255 351 377 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001337.jpg 1 355 222 466 332 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001338.jpg 1 267 173 376 279 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001339.jpg 1 193 182 305 288 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001340.jpg 1 290 282 424 418 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001341.jpg 1 258 207 352 301 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001342.jpg 1 256 154 370 263 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001343.jpg 1 232 170 347 277 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001344.jpg 1 278 250 394 357 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001345.jpg 1 322 236 433 346 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001346.jpg 1 296 151 409 259 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001347.jpg 1 330 197 440 300 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001348.jpg 1 242 210 352 324 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001349.jpg 1 269 247 391 370 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001350.jpg 1 330 248 445 356 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001351.jpg 1 245 110 376 233 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001352.jpg 1 257 238 371 351 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001353.jpg 1 259 235 370 348 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001354.jpg 1 379 126 507 250 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001355.jpg 1 429 125 557 249 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001356.jpg 1 399 126 508 229 0.53 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001357.jpg 1 390 125 521 249 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001358.jpg 1 390 125 521 249 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001359.jpg 1 353 196 455 298 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001360.jpg 1 298 201 393 295 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001361.jpg 1 292 105 417 227 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001362.jpg 1 300 180 406 286 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001363.jpg 1 202 279 347 424 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001364.jpg 1 364 223 480 335 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001365.jpg 1 257 222 376 337 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001366.jpg 1 356 241 469 354 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001367.jpg 1 279 114 404 234 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001368.jpg 1 364 247 491 373 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001369.jpg 1 263 183 378 297 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001370.jpg 1 379 126 507 250 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001371.jpg 1 430 121 566 249 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001372.jpg 1 390 125 521 249 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001373.jpg 1 353 206 459 313 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001374.jpg 1 281 271 417 400 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001375.jpg 1 267 125 397 251 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001376.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001377.jpg 1 353 196 455 298 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001378.jpg 1 303 184 408 289 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001379.jpg 1 292 204 398 311 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001380.jpg 1 257 176 375 288 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001381.jpg 1 241 175 352 283 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001382.jpg 1 243 221 372 346 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001383.jpg 1 295 178 407 287 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001384.jpg 1 262 272 404 408 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001385.jpg 1 278 235 379 335 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001386.jpg 1 430 121 566 249 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001387.jpg 1 354 246 476 363 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001388.jpg 1 266 288 391 410 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001389.jpg 1 295 182 394 282 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001390.jpg 1 283 244 394 348 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001391.jpg 1 343 233 447 336 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001392.jpg 1 276 255 391 370 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001393.jpg 1 276 248 381 351 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001394.jpg 1 349 178 449 277 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001395.jpg 1 273 252 419 391 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001396.jpg 1 253 229 365 337 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001397.jpg 1 253 229 365 337 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001398.jpg 1 332 234 448 349 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001399.jpg 1 224 272 350 397 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001400.jpg 1 318 221 423 324 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001401.jpg 1 337 239 465 366 0.53 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001402.jpg 1 349 233 457 338 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001403.jpg 1 279 124 408 246 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001404.jpg 1 279 124 408 246 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001405.jpg 1 295 136 417 255 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001406.jpg 1 331 225 434 327 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001407.jpg 1 228 255 351 377 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001408.jpg 1 355 222 466 332 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001409.jpg 1 241 176 351 278 0.53 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001410.jpg 1 193 182 305 288 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001411.jpg 1 290 206 383 301 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001412.jpg 1 250 273 377 397 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001413.jpg 1 290 282 424 418 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001414.jpg 1 301 261 390 347 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001415.jpg 1 259 186 365 288 0.55 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001416.jpg 1 274 231 377 334 0.75 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001417.jpg 1 244 228 353 334 0.72 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001418.jpg 1 343 254 469 381 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001419.jpg 1 204 232 303 332 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001420.jpg 1 277 183 385 287 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001421.jpg 1 306 130 433 255 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001422.jpg 1 266 288 391 410 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001423.jpg 1 303 178 423 282 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001424.jpg 1 298 201 393 295 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001425.jpg 1 258 207 352 301 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001426.jpg 1 321 129 445 249 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001427.jpg 1 292 105 417 227 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001428.jpg 1 419 123 542 237 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001429.jpg 1 333 151 450 263 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001430.jpg 1 308 183 420 295 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001431.jpg 1 278 250 394 357 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001432.jpg 1 322 236 433 346 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001433.jpg 1 294 176 389 273 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001434.jpg 1 330 210 430 310 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001435.jpg 1 292 295 409 407 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001436.jpg 1 266 179 373 286 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001437.jpg 1 272 132 393 251 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001438.jpg 1 265 143 383 256 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001439.jpg 1 308 132 429 250 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001440.jpg 1 329 232 448 351 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001441.jpg 1 276 177 392 286 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001442.jpg 1 206 178 319 287 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001443.jpg 1 297 181 406 287 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001444.jpg 1 231 204 342 311 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001445.jpg 1 253 250 358 356 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001446.jpg 1 292 247 397 351 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001447.jpg 1 258 247 369 355 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001448.jpg 1 195 214 323 348 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001449.jpg 1 225 219 357 350 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001450.jpg 1 249 176 356 278 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001451.jpg 1 242 179 349 283 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001452.jpg 1 241 175 352 283 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001453.jpg 1 429 125 557 249 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001454.jpg 1 328 275 468 421 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001455.jpg 1 328 275 468 421 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001456.jpg 1 376 126 507 252 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001457.jpg 1 427 103 557 231 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001458.jpg 1 399 126 508 229 0.53 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001459.jpg 1 295 178 407 287 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001460.jpg 1 226 210 323 308 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001461.jpg 1 265 172 371 276 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001462.jpg 1 254 172 360 275 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001463.jpg 1 301 275 431 403 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001464.jpg 1 325 281 454 407 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001465.jpg 1 288 279 405 395 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001466.jpg 1 242 229 351 337 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001467.jpg 1 273 246 382 354 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001468.jpg 1 190 235 298 341 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001469.jpg 1 349 247 467 362 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001470.jpg 1 381 224 498 337 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001471.jpg 1 292 181 397 285 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001472.jpg 1 333 173 440 277 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001473.jpg 1 204 123 333 247 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001474.jpg 1 209 273 338 400 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001475.jpg 1 321 227 434 337 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001476.jpg 1 278 189 381 288 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001477.jpg 1 339 172 446 277 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001478.jpg 1 390 125 521 249 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001479.jpg 1 208 124 333 240 0.5 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001480.jpg 1 353 273 486 402 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001481.jpg 1 376 126 507 252 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001482.jpg 1 341 195 442 298 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001483.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001484.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001485.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001486.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001487.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001488.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001489.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001490.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001491.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001492.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001493.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001494.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001495.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001496.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001497.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001498.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001499.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001500.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001501.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001502.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001503.jpg 1 272 134 368 232 0.5 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001504.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001505.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001506.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001507.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001508.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001509.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001510.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001511.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001512.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001513.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001514.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001515.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001516.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001517.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001518.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001519.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001520.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001521.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001522.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001523.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001524.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001525.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001526.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001527.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001528.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001529.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001530.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001531.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001532.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001533.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001534.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001535.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001536.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001537.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001538.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001539.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001540.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001541.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001542.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001543.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001544.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001545.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001546.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001547.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001548.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001549.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001550.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001551.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001552.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001553.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001554.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001555.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001556.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001557.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001558.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001559.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001560.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001561.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001562.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001563.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001564.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001565.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001566.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001567.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001568.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001569.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001570.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001571.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001572.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001573.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001574.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001575.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001576.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001577.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001578.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001579.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001580.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001581.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001582.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001583.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001584.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001585.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001586.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001587.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001588.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001589.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001590.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001591.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001592.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001593.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001594.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001595.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001596.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001597.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001598.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001599.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001600.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001601.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001602.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001603.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001604.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001605.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001606.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001607.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001608.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001609.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001610.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001611.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001612.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001613.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001614.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001615.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001616.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001617.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001618.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001619.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001620.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001621.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001622.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001623.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001624.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001625.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001626.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001627.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001628.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001629.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001630.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001631.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001632.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001633.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001634.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001635.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001636.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001637.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001638.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001639.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001640.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001641.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001642.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001643.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001644.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001645.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001646.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001647.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001648.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001649.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001650.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001651.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001652.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001653.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001654.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001655.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001656.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001657.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001658.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001659.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001660.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001661.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001662.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001663.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001664.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001665.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001666.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001667.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001668.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001669.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001670.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001671.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001672.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001673.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001674.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001675.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001676.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001677.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001678.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001679.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001680.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001681.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001682.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001683.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001684.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001685.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001686.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001687.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001688.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001689.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001690.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001691.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001692.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001693.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001694.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001695.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001696.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001697.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001698.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001699.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001700.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001701.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001702.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001703.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001704.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001705.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001706.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001707.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001708.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001709.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001710.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001711.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001712.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001713.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001714.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001715.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001716.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001717.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001718.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001719.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001720.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001721.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001722.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001723.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001724.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001725.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001726.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001727.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001728.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001729.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001730.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001731.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001732.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001733.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001734.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001735.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001736.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001737.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001738.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001739.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001740.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001741.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001742.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001743.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001744.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001745.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001746.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001747.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001748.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001749.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001750.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001751.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001752.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001753.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001754.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001755.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001756.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001757.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001758.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001759.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001760.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001761.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001762.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001763.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001764.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001765.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001766.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001767.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001768.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001769.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001770.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001771.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001772.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001773.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001774.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001775.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001776.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001777.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001778.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001779.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001780.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001781.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001782.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001783.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001784.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001785.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001786.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001787.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001788.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001789.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001790.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001791.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001792.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001793.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001794.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001795.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001796.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001797.jpg 1 316 297 444 425 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001798.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001799.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001800.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001801.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001802.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001803.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001804.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001805.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001806.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001807.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001808.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001809.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001810.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001811.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001812.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001813.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001814.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001815.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001816.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001817.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001818.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001819.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001820.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001821.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001822.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001823.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001824.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001825.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001826.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001827.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001828.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001829.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001830.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001831.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001832.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001833.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001834.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001835.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001836.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001837.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001838.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001839.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001840.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001841.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001842.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001843.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001844.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001845.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001846.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001847.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001848.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001849.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001850.jpg 0 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001851.jpg 1 247 160 355 265 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001852.jpg 1 270 149 395 260 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001853.jpg 1 270 149 395 260 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001854.jpg 1 414 111 534 232 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001855.jpg 1 414 111 534 232 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001856.jpg 1 245 279 371 400 0.66 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001857.jpg 1 341 157 456 266 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001858.jpg 1 301 173 404 274 0.68 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001859.jpg 1 282 157 404 277 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001860.jpg 1 279 302 409 430 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001861.jpg 1 330 139 455 259 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001862.jpg 1 360 174 469 282 0.58 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001863.jpg 1 310 195 415 297 0.51 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001864.jpg 1 318 202 422 307 0.73 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001865.jpg 1 353 187 455 286 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001866.jpg 1 306 186 403 282 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001867.jpg 1 261 200 369 305 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001868.jpg 1 312 185 425 297 0.57 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001869.jpg 1 386 188 483 283 0.54 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001870.jpg 1 382 177 495 282 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001871.jpg 1 276 127 403 250 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001872.jpg 1 305 136 403 231 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001873.jpg 1 284 236 396 349 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001874.jpg 1 297 258 397 357 0.74 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001875.jpg 1 325 249 429 350 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001876.jpg 1 292 185 398 288 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001877.jpg 1 293 252 394 353 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001878.jpg 1 259 199 367 304 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001879.jpg 1 296 232 407 338 0.62 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001880.jpg 1 379 226 491 335 0.6 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001881.jpg 1 269 256 380 363 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001882.jpg 1 306 191 407 288 0.56 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001883.jpg 1 306 131 428 253 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001884.jpg 1 200 161 322 280 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001885.jpg 1 283 169 390 272 0.51 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001886.jpg 1 275 183 393 282 0.5 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001887.jpg 1 242 210 352 321 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001888.jpg 1 269 246 372 346 0.61 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001889.jpg 1 284 247 394 355 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001890.jpg 1 295 152 410 264 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001891.jpg 1 258 151 373 259 0.64 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001892.jpg 1 319 209 435 326 0.59 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001893.jpg 1 273 157 378 260 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001894.jpg 1 340 251 449 360 0.63 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001895.jpg 1 307 274 408 373 0.69 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001896.jpg 1 293 250 400 352 0.7 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001897.jpg 1 294 175 404 284 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001898.jpg 1 364 150 467 253 0.65 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001899.jpg 1 267 208 370 310 0.71 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001900.jpg 1 267 206 369 306 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001901.jpg 1 304 171 418 281 0.67 
+/home/yzhang/matrixnet_zy/data/FBM_HALF/img_test/001902.jpg 1 312 248 429 358 0.6 

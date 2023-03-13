@@ -1,0 +1,24 @@
+001023.jpg  Missing detection
+001030.jpg  Missing detection
+001088.jpg  Missing detection
+001503.jpg  False detection
+001515.jpg  False detection
+001533.jpg  False detection
+001563.jpg  False detection
+001565.jpg  False detection
+001603.jpg  False detection
+001664.jpg  False detection
+001708.jpg  False detection
+001712.jpg  False detection
+001725.jpg  False detection
+001742.jpg  False detection
+001774.jpg  False detection
+001780.jpg  False detection
+001797.jpg  False detection
+---************-----------Calculation results-----------************---
+Score Threshold is: 0.4900000000000003
+Missing detection is: 3 ; MDR: 0.158%
+False detection is: 14 ; FDR: 0.736%
+Error detection is: 0 ; EDR: 0.000%
+
+CDR is: 99.106%

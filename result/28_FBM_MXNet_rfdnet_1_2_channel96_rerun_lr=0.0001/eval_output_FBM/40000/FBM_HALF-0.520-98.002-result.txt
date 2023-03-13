@@ -1,0 +1,45 @@
+000066.jpg  Missing detection
+000360.jpg  Missing detection
+000658.jpg  Missing detection
+000790.jpg  Missing detection
+000938.jpg  Missing detection
+001011.jpg  Missing detection
+001012.jpg  Missing detection
+001023.jpg  Missing detection
+001030.jpg  Missing detection
+001088.jpg  Missing detection
+001105.jpg  Missing detection
+001260.jpg  Missing detection
+001344.jpg  Missing detection
+001431.jpg  Missing detection
+001483.jpg  False detection
+001503.jpg  False detection
+001509.jpg  False detection
+001513.jpg  False detection
+001514.jpg  False detection
+001515.jpg  False detection
+001516.jpg  False detection
+001517.jpg  False detection
+001570.jpg  False detection
+001599.jpg  False detection
+001603.jpg  False detection
+001687.jpg  False detection
+001725.jpg  False detection
+001742.jpg  False detection
+001743.jpg  False detection
+001744.jpg  False detection
+001748.jpg  False detection
+001750.jpg  False detection
+001758.jpg  False detection
+001774.jpg  False detection
+001782.jpg  False detection
+001797.jpg  False detection
+001828.jpg  False detection
+001863.jpg  Missing detection
+---************-----------Calculation results-----------************---
+Score Threshold is: 0.5200000000000004
+Missing detection is: 15 ; MDR: 0.789%
+False detection is: 23 ; FDR: 1.209%
+Error detection is: 0 ; EDR: 0.000%
+
+CDR is: 98.002%
